@@ -1,0 +1,113 @@
+{
+  "name": "witcher-kompendium-deutsch",
+  "title": "Witcher Kompendium (deutsch)",
+  "description": "Meine eigene Ergänzung zum offiziellen Witcher Compendium. Möglichst alles auf deutsch.",
+  "authors": [
+    {
+      "name": "Marcel O."
+    }
+  ],
+  "version": "1.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.291"
+  },
+  "packs": [
+    {
+      "name": "weapons",
+      "label": "Waffen",
+      "path": "packs/weapons.db",
+      "type": "Item",
+      "module": "witcher-kompendium-deutsch",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "armors",
+      "label": "Rüstungen",
+      "path": "packs/armors.db",
+      "type": "Item",
+      "module": "witcher-kompendium-deutsch",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "equipment",
+      "label": "Ausrüstungsgegenstände",
+      "path": "packs/equipment.db",
+      "type": "Item",
+      "module": "witcher-kompendium-deutsch",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "alchemie",
+      "label": "Alchemie",
+      "path": "packs/alchemie.db",
+      "type": "Item",
+      "module": "witcher-kompendium-deutsch",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "crafting",
+      "label": "Handwerk",
+      "path": "packs/crafting.db",
+      "type": "Item",
+      "module": "witcher-kompendium-deutsch",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "books",
+      "label": "Bücher",
+      "path": "packs/books.db",
+      "type": "Item",
+      "module": "witcher-kompendium-deutsch",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "races",
+      "label": "Rassen",
+      "path": "packs/races.db",
+      "type": "Item",
+      "module": "witcher-kompendium-deutsch",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "professions",
+      "label": "Klassen",
+      "path": "packs/professions.db",
+      "type": "Item",
+      "module": "witcher-kompendium-deutsch",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "diagrams",
+      "label": "Diagramme",
+      "path": "packs/diagrams.db",
+      "type": "Item",
+      "module": "witcher-kompendium-deutsch",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "spells",
+      "label": "Magie",
+      "path": "packs/spells.db",
+      "type": "Item",
+      "module": "witcher-kompendium-deutsch",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "characters",
+      "label": "Vordefinierte Charaktere",
+      "path": "packs/predefined-characters.db",
+      "type": "Actor",
+      "module": "witcher-kompendium-deutsch",
+      "system": "TheWitcherTRPG"
+    },
+    {
+      "name": "journal",
+      "label": "Regeln",
+      "path": "packs/journal-regeln.db",
+      "type": "JournalEntry",
+      "module": "witcher-kompendium-deutsch",
+      "system": "TheWitcherTRPG"
+    }
+  ]
+}
