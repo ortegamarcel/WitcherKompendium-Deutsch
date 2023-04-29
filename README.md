@@ -8,6 +8,9 @@ Teilweise weicht der Inhalt von den oben genannten Büchern ab oder wird um eige
 Ein Bestarium ist vorerst nicht geplant.
 
 ## Inhalt
+
+**Gesamt: 57.4%**
+
 * **Vordefinierte Charaktere**
   * Faendal Vaennoth, Elf, Arzt (10%, muss ich noch aus Roll20 importieren)
   * Lanlion Bréacc Glas, Elf, Magier (100%)
@@ -81,7 +84,7 @@ Ein Bestarium ist vorerst nicht geplant.
   * Rituale (100%)
   * Verhexungen (100%)
   * Zauber (100%)
-* **Diagramme (57%)**
+* **Diagramme (28%)**
   * Komponentendiagramme (100%)
   * Waffendiagramme (63%)
     * Novizen (100%)
