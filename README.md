@@ -1,6 +1,6 @@
 # Ein deutschsprachiges Witcher TRPG Kompendium für FoundryVTT.
 
-## Version 0.9
+## Version 0.5.0
 Beinhaltet folgende Items:
 * Rassen
 * Klassen

@@ -1,17 +1,14 @@
 {
-  "name": "witcher-kompendium-deutsch",
+  "id": "witcher-compendium-german",
+  "name": "witcher-compendium-german",
   "title": "Witcher Kompendium (deutsch)",
-  "description": "Meine eigene Ergänzung zum offiziellen Witcher Compendium. Möglichst alles auf deutsch.",
+  "description": "Ein deutschsprachiges Witcher TRPG Kompendium für FoundryVTT.",
   "authors": [
     {
       "name": "Marcel O."
     }
   ],
-  "version": "1.0",
-  "compatibility": {
-    "minimum": "10",
-    "verified": "10.291"
-  },
+  "version": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
   "packs": [
     {
       "name": "weapons",
@@ -109,5 +106,15 @@
       "module": "witcher-kompendium-deutsch",
       "system": "TheWitcherTRPG"
     }
-  ]
+  ],
+  "minimumCoreVersion": "0.6.2",
+  "compatibleCoreVersion": "10",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.291",
+    "maximum": 11
+  },
+  "url": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+  "manifest": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+  "download": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION"
 }
