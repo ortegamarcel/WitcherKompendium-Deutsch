@@ -8,7 +8,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       # Substitute the Manifest and Download URLs in the module.json
       - name: Substitute Manifest and Download Links For Versioned Ones
@@ -29,11 +29,14 @@ jobs:
       - name: Update Release with Files
         id: create_version_release
         uses: ncipollo/release-action@v1
+        permissions:
+          contents: write
         with:
           allowUpdates: true # Set this to false if you want to prevent updating existing releases
           name: ${{ github.event.release.name }}
           draft: false
           prerelease: false
+          artifactErrorsFailBuild: true
           token: ${{ secrets.GITHUB_TOKEN }}
           artifacts: "./module.json, ./module.zip"
           tag: ${{ github.event.release.tag_name }}
