@@ -9,6 +9,16 @@
     }
   ],
   "version": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+  "relationships": {
+    "systems": [{
+      "id": "TheWitcherTRPG",
+      "type": "system",
+      "manifest": "https://github.com/AnthonyMonette/TheWitcherTRPG/releases/latest/download/system.json",
+      "compatibility": {
+        "verified": "0.96"
+      }
+    }]
+  },
   "packs": [
     {
       "name": "weapons",
