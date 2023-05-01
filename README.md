@@ -115,7 +115,7 @@ Ein Bestarium ist vorerst nicht geplant.
   * Faendal Vaennoth, Elf, Arzt (10%, muss ich noch aus Roll20 importieren)
   * Lanlion Bréacc Glas, Elf, Magier (100%)
   * Crehwill von Seren, Hexer (20%, muss ich noch aus Roll20 importieren)
-  * Zephyrus Dunkelherz, Hexer (90%, Rezepte fehlen)
+  * Zephyrus Dunkelherz, Hexer (100%)
   * Leonard Grahm, Mensch, Verbrecher/Assassin (100%)
   * Erik Erikson, Mensch, Handwerker (100%)
   * Aldric von Dunyvaig, Mensch, Magier (100%)
@@ -123,7 +123,7 @@ Ein Bestarium ist vorerst nicht geplant.
   * Yarpen, Zwerg, Handwerker (10%, muss ich noch aus Roll20 importieren)
   * Mondria, Elfin, Verbrechering/Assassine (100%)
   * Eleonora Ladri, Elfin, Druidin (100%)
-  * Nora von Dreiberg, Hexerin (90%, Rezepte fehlen)
+  * Nora von Dreiberg, Hexerin (100%)
   * Hund, Haustier, NPC (10%)
 * **Regeln**
   * Kampf Übersicht
